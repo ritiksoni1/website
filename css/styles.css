@@ -2,9 +2,18 @@
   body {
     background-color:	aliceblue;
   }
+  h1{
+    color: #deb887;
+  }
+  h3{
+    color: #deb887;
+  }
 hr{
 border-color: gray;
 border-style: dotted none none;
 width: 2%;
 border-width:5px;
+}
+.circular{
+  border-radius: 115%;
 }
